@@ -2,7 +2,23 @@
   "marketplace_version": "1.0.0",
   "name": "young-leaders-tech-marketplace",
   "description": "Personal Claude Code plugin marketplace",
-  "plugins": [],
+  "plugins": [
+    {
+      "name": "skills-toolkit",
+      "version": "1.0.0",
+      "description": "Complete toolkit for creating, validating, and managing Claude Code skills with intelligent agents, commands, and templates",
+      "path": "./plugins/skills-toolkit",
+      "added": "2025-10-20T11:50:00Z",
+      "author": "Young Leaders Tech",
+      "categories": ["productivity", "development-tools", "quality-assurance"],
+      "features": {
+        "agents": 2,
+        "commands": 3,
+        "skills": 4
+      }
+    }
+  ],
   "auto_update": false,
-  "created": "2025-10-19T21:48:06Z"
+  "created": "2025-10-19T21:48:06Z",
+  "last_updated": "2025-10-20T11:50:00Z"
 }
