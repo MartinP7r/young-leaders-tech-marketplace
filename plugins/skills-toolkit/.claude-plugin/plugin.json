@@ -6,9 +6,6 @@
     "name": "Young Leaders Tech",
     "url": "https://youngleaders.tech"
   },
-  "agents": "./agents/",
-  "commands": "./commands/",
-  "skills": "./skills/",
   "keywords": [
     "skills",
     "toolkit",
