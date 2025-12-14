@@ -1,6 +1,6 @@
 {
   "name": "skills-toolkit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete toolkit for creating, validating, and managing Claude Code skills with intelligent agents, interactive commands, and professional templates",
   "author": {
     "name": "Young Leaders Tech",
@@ -9,10 +9,6 @@
   "agents": "./agents/",
   "commands": "./commands/",
   "skills": "./skills/",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/YoungLeadersDotTech/young-leaders-tech-marketplace"
-  },
   "keywords": [
     "skills",
     "toolkit",
